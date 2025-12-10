@@ -7,28 +7,28 @@ I love solving complex problems and turning ideas into polished, real-world soft
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-### **📱 Mobile App Development**
+### ** Mobile App Development**
 - Angular 16/17+ with standalone components  
 - Ionic UI, navigation, theming, lifecycle management  
 - Capacitor v5 plugins (Camera, Geolocation, Push Notifications, Filesystem, etc.)  
 - Android/iOS permission flows and native debugging (Logcat, Xcode, ANRs)  
 - Experience deploying & publishing mobile apps  
 
-### **🌐 Web Development**
+### ** Web Development**
 - Full-stack development using **Laravel**, **Node.js**, **Vue**, **React**, **TypeScript**
 - Enterprise dashboards, POS systems, custom forms, complex validation  
 - Integrations: REST APIs, Firebase, AWS, GitHub Actions  
 
-### **🎮 Game Development**
+### ** Game Development**
 - Godot 4 (3D, 2.5D, pixel-art ARPGs)  
 - Procedural generation, combat systems, VFX, and shader work  
 - Steam publishing experience  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** TypeScript, JavaScript, PHP, C#, GDScript  
 **Frontend:** Angular 17+, Ionic, React, Vue  
@@ -39,7 +39,7 @@ I love solving complex problems and turning ideas into polished, real-world soft
 
 ---
 
-## 🌟 Highlighted Skills
+##  Highlighted Skills
 - Mobile UI/UX architecture  
 - Plugin wrapping (Capacitor → Angular services)  
 - Native mobile troubleshooting  
