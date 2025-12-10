@@ -51,7 +51,7 @@ I love solving complex problems and turning ideas into polished, real-world soft
 
 ## 📫 Contact  
 **Email:** adnin.onofre@gmail.com  
-**LinkedIn:** (add your link here if you want)
+**LinkedIn:** https://www.linkedin.com/in/adninonofre/
 
 ---
 
