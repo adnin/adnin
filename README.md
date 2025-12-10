@@ -1,4 +1,4 @@
-# Hi, I'm Adnin — Mobile App Developer | Full-Stack Engineer | Game Developer
+# Hi, I'm Adnin - Mobile App Developer | Full-Stack Engineer | Game Developer
 
 I build **mobile apps**, **enterprise web systems**.  
 My experience spans **Angular 16/17+, Ionic, Capacitor, React Native, Laravel, Node.js, Godot 4**, and full CI/CD workflows.
