@@ -1,4 +1,4 @@
-# Hi, I'm Adnin — Mobile Engineer | Full-Stack Developer | Game Developer
+# Hi, I'm Adnin — Mobile Engineer | Full-Stack Developer
 
 I build **production mobile apps** and **enterprise-grade web + API systems**—with a focus on **clean architecture, performance, reliability, and real-world delivery**.
 
@@ -39,14 +39,14 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Laravel**, **Node.
 
 ## Portfolio Projects
 
-### **FleetMind** — React Native + Next.js + Laravel + Redis + OpenAI
-A logistics-style suite with customer + rider apps, admin dashboard, RBAC, audit trails, queue-based notifications, and AI-assisted support.
+### **FleetMind** — React Native + Next.js + Laravel + Redis
+A logistics-style suite with customer + rider apps, admin dashboard, RBAC, audit trails, queue-based notifications.
 
-### **OpsPulse** — Node.js + Redis + WebSockets + React + OpenAI
-A real-time operations dashboard with live event feed, Redis-backed rate limits, and AI incident summarization.
+### **OpsPulse** — Node.js + Redis + WebSockets + React
+A real-time operations dashboard with live event feed, Redis-backed rate limits.
 
-### **MerchantStudio** — Vue 3 + Laravel + Redis + OpenAI
-A B2B merchant portal with tenant-ready scoping, exports via jobs, and AI helpers for listings and replies.
+### **MerchantStudio** — Vue 3 + Laravel + Redis
+A B2B merchant portal with tenant-ready scoping, exports via jobs.
 
 ---
 
