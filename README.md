@@ -8,7 +8,7 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Larav
 
 ## What I Build
 
-### Mobile (React Native)
+### Mobile
 - Production-ready screens, navigation, state management, and scalable UI systems
 - Offline-friendly UX patterns, resilient networking, and error handling
 - Auth flows, deep links, push notification flows (when needed)
