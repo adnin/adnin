@@ -12,7 +12,7 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Larav
 - Production-ready screens, navigation, state management, and scalable UI systems
 - Offline-friendly UX patterns, resilient networking, and error handling
 - Auth flows, deep links, push notification flows (when needed)
-- Performance profiling and UI polish for an “enterprise feel”
+- Performance profiling and UI polish
 
 ### Web (React / Next.js / Vue / Angular)
 - Admin dashboards and internal tools (filters, tables, audit views, workflows)
