@@ -2,7 +2,7 @@
 
 I build **production mobile apps** and **enterprise-grade web + API systems**—with a focus on **clean architecture, performance, reliability, and real-world delivery**.
 
-I work across **React Native**, **React/Next.js**, **Vue**, **Laravel**, **Node.js**, **Redis**, and **OpenAI integrations**, and I’m comfortable owning (or leading) features end-to-end: design → implementation → testing → release.
+I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Laravel**, **Node.js**, and **Redis**, and I’m comfortable owning (or leading) features end-to-end: design → implementation → testing → release.
 
 ---
 
@@ -12,9 +12,9 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Laravel**, **Node.
 - Production-ready screens, navigation, state management, and scalable UI systems
 - Offline-friendly UX patterns, resilient networking, and error handling
 - Auth flows, deep links, push notification flows (when needed)
-- Performance profiling and UI polish for “enterprise feel”
+- Performance profiling and UI polish for an “enterprise feel”
 
-### Web (React / Next.js / Vue)
+### Web (React / Next.js / Vue / Angular)
 - Admin dashboards and internal tools (filters, tables, audit views, workflows)
 - Merchant/customer portals with role-based access and clean UX
 - Reusable component systems, typed API clients, and predictable state flows
@@ -25,11 +25,6 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Laravel**, **Node.
 - Redis-backed queues, caching, and rate limiting
 - Background jobs + scheduled tasks for operational automation
 
-### AI Features (OpenAI)
-- Support Copilot endpoints (answer + structured output + guardrails)
-- Summarization tools (incident reports, ops briefs, customer support notes)
-- Practical safety controls: input limits, cost throttling, and audit logs
-
 ### Game Development (Godot 4+)
 - Gameplay systems, combat loops, procedural generation, VFX/shaders
 - Building “feel” through responsiveness, animation timing, and feedback
@@ -37,27 +32,12 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Laravel**, **Node.
 
 ---
 
-## Portfolio Projects
-
-### **FleetMind** — React Native + Next.js + Laravel + Redis
-A logistics-style suite with customer + rider apps, admin dashboard, RBAC, audit trails, queue-based notifications.
-
-### **OpsPulse** — Node.js + Redis + WebSockets + React
-A real-time operations dashboard with live event feed, Redis-backed rate limits.
-
-### **MerchantStudio** — Vue 3 + Laravel + Redis
-A B2B merchant portal with tenant-ready scoping, exports via jobs.
-
----
-
 ## Tech Stack
-
-**Mobile:** React Native (Expo)  
-**Web:** React, Next.js, Vue 3, TypeScript  
-**Backend:** Laravel, Node.js  
-**Infra:** Redis, Queues/Jobs, Docker  
-**AI:** OpenAI (guardrails + audit logging)  
-**Tools:** Git, GitHub Actions (when applicable), Postman/Insomnia
+- **Mobile:** React Native (Expo)
+- **Web:** React, Next.js, Vue 3, Angular, TypeScript
+- **Backend:** Laravel, Node.js
+- **Infra:** Redis, Queues/Jobs, Docker
+- **Tools:** Git, GitHub Actions (when applicable), Postman/Insomnia
 
 ---
 
@@ -70,7 +50,7 @@ A B2B merchant portal with tenant-ready scoping, exports via jobs.
 ---
 
 ## Contact
-**Email:** adnin.onofre@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/adninonofre/
+- **Email:** adnin.onofre@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/adninonofre/
 
 I’m open to remote opportunities (Mobile / Full-Stack) and collaborations.
