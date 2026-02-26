@@ -2,7 +2,7 @@
 
 I build **production mobile apps** and **enterprise-grade web + API systems**—with a focus on **clean architecture, performance, reliability, and real-world delivery**.
 
-I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Laravel**, **Node.js**, and **Redis**, and I’m comfortable owning (or leading) features end-to-end: design → implementation → testing → release.
+I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Laravel**, **Node.js**, and **Redis**, and I’m comfortable owning (or leading) features end-to-end: design, implementation, testing, release.
 
 ---
 
@@ -25,7 +25,7 @@ I work across **React Native**, **React/Next.js**, **Vue**, **Angular**, **Larav
 - Redis-backed queues, caching, and rate limiting
 - Background jobs + scheduled tasks for operational automation
 
-### Game Development (Godot 4+)
+### Game Development (Godot 4+ / PixiJS)
 - Gameplay systems, combat loops, procedural generation, VFX/shaders
 - Building “feel” through responsiveness, animation timing, and feedback
 - Prototyping and shipping mindset
